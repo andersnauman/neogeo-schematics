@@ -1,6 +1,12 @@
 # Neo Geo – Schematics
 Collection schematics for the Neo Geo.
 
+## Usage
+```
+git clone https://github.com/andersnauman/neogeo-schematics.git
+git submodule update --init --recursive
+```
+
 ## License
 
 Distributed under the GNU General Public License v3.0. See `LICENSE.txt` for more information.
