@@ -2,9 +2,15 @@
 Collection schematics for the Neo Geo.
 
 ## Usage
+### Initial pull
 ```
 git clone https://github.com/andersnauman/neogeo-schematics.git
 git submodule update --init --recursive
+```
+
+### Update submodule
+```
+git submodule update --remote --merge
 ```
 
 ## License
