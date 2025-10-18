@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Neo Geo")(type "KiCad")(uri "${KIPRJMOD}/../kicad/symbols/NeoGeo.kicad_sym")(options "")(descr ""))
+)

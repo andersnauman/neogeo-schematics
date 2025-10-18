@@ -1,0 +1,531 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "24b638d1-48d9-4353-ba58-4296637a547f")
+	(paper "A3")
+	(title_block
+		(title "King of Fighters '97 - PROGBK1")
+		(date "2025-02-14")
+		(comment 1 "Not an original schematic")
+		(comment 2 "Reversed from physical copy")
+	)
+	(lib_symbols)
+	(junction
+		(at 214.63 134.62)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ada5db9e-ee1d-4856-a518-fa4019bf6fda")
+	)
+	(bus
+		(pts
+			(xy 227.33 147.32) (xy 227.33 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "02b2a571-ef88-49d4-9c64-cbe1b145970a")
+	)
+	(bus
+		(pts
+			(xy 217.17 132.08) (xy 217.17 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "05cbea93-4900-4d3a-9959-6e839f2643ac")
+	)
+	(bus
+		(pts
+			(xy 220.98 140.97) (xy 220.98 166.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0d1821b6-05ac-4210-b70d-dc6fcb5847c6")
+	)
+	(bus
+		(pts
+			(xy 214.63 134.62) (xy 214.63 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e017928-86c2-46b4-b3e1-32eac3b4072a")
+	)
+	(bus
+		(pts
+			(xy 214.63 134.62) (xy 233.68 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e508520-4b22-49fa-887f-d40ed78ea081")
+	)
+	(bus
+		(pts
+			(xy 227.33 172.72) (xy 210.82 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e74dc02-8d9e-4d9e-8c39-855b8add3d19")
+	)
+	(bus
+		(pts
+			(xy 224.79 144.78) (xy 224.79 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0fb13314-762d-4cd1-a383-db68341d8d60")
+	)
+	(bus
+		(pts
+			(xy 224.79 170.18) (xy 210.82 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "26b1fe4f-41b9-40f7-97f6-c671caf1bddc")
+	)
+	(bus
+		(pts
+			(xy 220.98 166.37) (xy 210.82 166.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3aa70bbe-ce4d-44d4-8aaf-3c01dae54e76")
+	)
+	(bus
+		(pts
+			(xy 218.44 163.83) (xy 210.82 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "41ccff76-5bbb-4778-9a64-999cbcb6c0ee")
+	)
+	(bus
+		(pts
+			(xy 229.87 175.26) (xy 210.82 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b84d1fb-2526-4658-b296-09f5f8067063")
+	)
+	(bus
+		(pts
+			(xy 214.63 113.03) (xy 210.82 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "63b581c1-5f7f-470c-9c41-cdcd6d2a747f")
+	)
+	(bus
+		(pts
+			(xy 210.82 160.02) (xy 214.63 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "747af0e0-4a39-4d55-87a0-dbd35aed5836")
+	)
+	(bus
+		(pts
+			(xy 233.68 149.86) (xy 229.87 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "82319538-5496-4ed2-91d9-5222d148108b")
+	)
+	(bus
+		(pts
+			(xy 218.44 138.43) (xy 218.44 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "87562800-2bd9-4153-941e-145193aea8fe")
+	)
+	(bus
+		(pts
+			(xy 217.17 110.49) (xy 210.82 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "888348f0-fb7c-4bbb-a577-2d229bfedefd")
+	)
+	(bus
+		(pts
+			(xy 233.68 144.78) (xy 224.79 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8fc61792-e89e-4aa6-b525-79ddd3832f27")
+	)
+	(bus
+		(pts
+			(xy 233.68 138.43) (xy 218.44 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "957a431b-1aa1-4f56-8ad3-af8529707c02")
+	)
+	(bus
+		(pts
+			(xy 233.68 147.32) (xy 227.33 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9f52c75c-1029-43d9-9d45-dcb7352206ee")
+	)
+	(bus
+		(pts
+			(xy 229.87 149.86) (xy 229.87 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aed1fd31-f6fa-4cea-b9f2-9fbd75ec214b")
+	)
+	(bus
+		(pts
+			(xy 233.68 132.08) (xy 217.17 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e03646ce-a1ec-4703-919d-0ca8e002eb80")
+	)
+	(bus
+		(pts
+			(xy 214.63 160.02) (xy 214.63 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ea59bbc2-7bfa-4678-8b2d-fc48bef707e3")
+	)
+	(bus
+		(pts
+			(xy 233.68 140.97) (xy 220.98 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f3ab799a-d884-4022-8d78-5cc346ef0038")
+	)
+	(sheet
+		(at 148.59 147.32)
+		(size 62.23 41.275)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "23d4c1f8-ac92-4742-aa5c-ba19ddbbb38e")
+		(property "Sheetname" "V ROM"
+			(at 148.59 146.6084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "v_rom.kicad_sch"
+			(at 148.59 189.1796 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "SDRAD[0..7]" tri_state
+			(at 210.82 175.26 0)
+			(uuid "fde75ea7-007b-407a-8791-1691e62ccbf1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SDPAD[0..7]" tri_state
+			(at 210.82 166.37 0)
+			(uuid "89907766-bceb-424a-9c64-e3c32407990e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SDRA[8..9]" input
+			(at 210.82 170.18 0)
+			(uuid "15aee828-8fad-4133-b86d-6d713c4476ac")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "A[1..19]" input
+			(at 210.82 160.02 0)
+			(uuid "1949e9f2-81b9-4190-bc7d-889d933d5b1c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SDPA[8..11]" input
+			(at 210.82 163.83 0)
+			(uuid "cf0aee83-7927-4c04-b8ce-3a4718ccbe2a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SDRA[20..23]" input
+			(at 210.82 172.72 0)
+			(uuid "f59fc9db-8490-4622-9195-7caf91315c1e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "progbk1"
+				(path "/24b638d1-48d9-4353-ba58-4296637a547f"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 148.59 91.44)
+		(size 62.23 41.275)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b7816910-99e2-4b63-b883-5ac2266ea859")
+		(property "Sheetname" "P ROM"
+			(at 148.59 90.7284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "p_rom.kicad_sch"
+			(at 148.59 133.2996 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "D[0..15]" tri_state
+			(at 210.82 110.49 0)
+			(uuid "581a3567-a708-46fc-8a99-fe9897d371f7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "A[1..19]" input
+			(at 210.82 113.03 0)
+			(uuid "98b44d42-05ed-4840-a1b0-88fd88099e48")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "progbk1"
+				(path "/24b638d1-48d9-4353-ba58-4296637a547f"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 233.68 119.38)
+		(size 62.23 41.275)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e62a459b-c2be-47e7-9ada-09b15ab7616e")
+		(property "Sheetname" "Cartridge Edge"
+			(at 233.68 118.6684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "cartridge_edge.kicad_sch"
+			(at 233.68 161.2396 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "D[0..15]" tri_state
+			(at 233.68 132.08 180)
+			(uuid "4b5b73bb-a04d-45ee-affe-38059d8322c3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SDRAD[0..7]" tri_state
+			(at 233.68 149.86 180)
+			(uuid "e2c87027-e62a-4eda-811f-43f6f22bf86b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SDPAD[0..7]" tri_state
+			(at 233.68 140.97 180)
+			(uuid "d8a9d722-362c-4958-bdda-53b9a8596771")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "A[1..19]" input
+			(at 233.68 134.62 180)
+			(uuid "85da09fe-bb2f-455e-b502-71d741d8839f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SDPA[8..11]" input
+			(at 233.68 138.43 180)
+			(uuid "7632f521-ae2c-4042-9a74-22621a8dbfb2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SDRA[8..9]" input
+			(at 233.68 144.78 180)
+			(uuid "6ea83c6f-8e5e-459e-9e00-3901cd9b0366")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SDRA[20..23]" input
+			(at 233.68 147.32 180)
+			(uuid "150091e1-db15-4cae-b0fa-87256dcd3703")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "progbk1"
+				(path "/24b638d1-48d9-4353-ba58-4296637a547f"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
