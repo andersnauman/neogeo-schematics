@@ -27387,7 +27387,7 @@
 		)
 	)
 	(global_label "HALT"
-		(shape input)
+		(shape output)
 		(at 303.53 219.71 180)
 		(fields_autoplaced yes)
 		(effects
@@ -27398,7 +27398,7 @@
 		)
 		(uuid "098453d3-e744-4d24-a371-e96d9ed42f52")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 296.7021 219.6306 0)
+			(at 296.13 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28179,7 +28179,7 @@
 		)
 	)
 	(global_label "RESET"
-		(shape input)
+		(shape output)
 		(at 303.53 222.25 180)
 		(fields_autoplaced yes)
 		(effects
@@ -28190,7 +28190,7 @@
 		)
 		(uuid "99bdd6cf-55d3-4b45-b2c9-e2ebd82e340b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 295.3717 222.1706 0)
+			(at 294.7997 222.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
