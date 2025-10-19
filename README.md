@@ -1,5 +1,5 @@
 # Neo Geo – Schematics
-Collection schematics for the Neo Geo.
+Collection of schematics for the Neo Geo.
 
 ## Usage
 ### Initial pull
