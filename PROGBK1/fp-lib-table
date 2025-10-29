@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Neo Geo")(type "KiCad")(uri "C:/Users/ander/Desktop/arcade/Neo Geo/git/neogeo-kicad/footprints/NeoGeo.pretty")(options "")(descr ""))
+)
