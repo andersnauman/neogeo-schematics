@@ -4,7 +4,7 @@ Collection of schematics for the Neo Geo.
 ## Usage
 ### Initial pull
 ```
-git clone https://github.com/andersnauman/neogeo-schematics.git
+git clone https://github.com/neogeo-projects/neogeo-schematics.git
 git submodule update --init --recursive
 ```
 
